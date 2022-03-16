@@ -4,5 +4,5 @@
 
 
 ```go
-wget https://raw.githubusercontent.com/wuliao1223/newdd/main/newdd.sh && bash newdd.sh
+wget -N --no-check-certificate  https://raw.githubusercontent.com/wuliao1223/newdd/main/newdd.sh && bash newdd.sh
 ```
